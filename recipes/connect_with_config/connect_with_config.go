@@ -17,8 +17,8 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/olivere/elastic/v7"
-	"github.com/olivere/elastic/v7/config"
+	"github.com/reborn-go/elastic"
+	"github.com/reborn-go/elastic/config"
 )
 
 func main() {

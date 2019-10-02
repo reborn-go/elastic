@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/reborn-go/elastic/uritemplates"
 )
 
 // ExistsService checks for the existence of a document using HEAD.

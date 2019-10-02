@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/reborn-go/elastic/uritemplates"
 )
 
 // ValidateService allows a user to validate a potentially

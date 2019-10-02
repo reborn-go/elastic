@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/olivere/elastic/v7/uritemplates"
+	"github.com/reborn-go/elastic/uritemplates"
 )
 
 // XPackWatcherGetWatchService retrieves a watch by its ID.
